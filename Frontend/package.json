@@ -30,7 +30,7 @@
     "@angular/service-worker": "~7.2.0",
     "core-js": "^2.5.4",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-bootstrap": "^5.1.0",
     "ngx-web-worker": "^8.0.0",
     "path": "^0.12.7",
